@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **full stack web development**
 
-- 👨‍💻 All of my projects are available at [http://pawanverma.host20.uk/](http://pawanverma.host20.uk/)
+- 👨‍💻 All of my projects are available [here](https://github.com/pawanverma25)
 
 - 📫 How to reach me **pawanzofficial@gmail.com**
 
